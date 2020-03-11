@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://chinmayshah99.github.io/public/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chinmayshah99.github.io/public/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chinmayshah99.github.io/public/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chinmayshah99.github.io/public/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chinmayshah99.github.io/public/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chinmayshah99.github.io/public/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chinmayshah99.github.io/public/tags/</loc>
+  </url>
+  
+</urlset>
