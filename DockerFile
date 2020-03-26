@@ -1,5 +1,7 @@
 FROM alpine:latest
 
+LABEL maintainer="Chinmay Shah <chinmayshah3899@gmail.com>"
+
 RUN apk add --no-cache curl
 
 ENV VERSION 0.55.0
@@ -12,5 +14,6 @@ RUN cd .. \
     mkdir /src
 
 WORKDIR /src
+EXPOSE 1313
 
 ENTRYPOINT [ "hugo" ]
