@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogging on Chinmay Shah</title>
+    <link>https://chinmayshah.xyz/public/tags/blogging/</link>
+    <description>Recent content in blogging on Chinmay Shah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://chinmayshah.xyz/public/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Starting a blog on Github Pages using Hugo</title>
+      <link>https://chinmayshah.xyz/public/posts/start-blog-hugo/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chinmayshah.xyz/public/posts/start-blog-hugo/</guid>
+      <description>Website on Github Pages Traditionally, website building has always been about writing HTML, CSS and Javascript. But it all changed when static website generators came into being. Now you can write your website in markdown or any other fancy stuff and it automatically gets converted into a website (with html and css).
+Github Pages and Hugo Github allows to host static website using Github Pages, i.e., you can set-up a static website and need not worry about hosting.</description>
+    </item>
+    
+  </channel>
+</rss>
