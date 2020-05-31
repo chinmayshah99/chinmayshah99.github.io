@@ -1,43 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chinmay Shah</title>
-    <link>https://chinmayshah99.github.io/public/</link>
+    <link>https://chinmayshah.xyz/public/</link>
     <description>Recent content on Chinmay Shah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chinmayshah99.github.io/public/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chinmayshah.xyz/public/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Starting a blog on Github Pages using Hugo</title>
+      <link>https://chinmayshah.xyz/public/posts/start-blog-hugo/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chinmayshah.xyz/public/posts/start-blog-hugo/</guid>
+      <description>Website on Github Pages Traditionally, website building has always been about writing HTML, CSS and Javascript. But it all changed when static website generators came into being. Now you can write your website in markdown or any other fancy stuff and it automatically gets converted into a website (with html and css).
+Github Pages and Hugo Github allows to host static website using Github Pages, i.e., you can set-up a static website and need not worry about hosting.</description>
+    </item>
+    
+    <item>
       <title>About Chinmay</title>
-      <link>https://chinmayshah99.github.io/public/about/</link>
+      <link>https://chinmayshah.xyz/public/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chinmayshah99.github.io/public/about/</guid>
+      <guid>https://chinmayshah.xyz/public/about/</guid>
       <description>Hi, I am Chinmay Shah, a 21-year-old Computer Science senior who is quite optimistic about the future and strongly believes we can make the world a better place.
-I usually blog on Medium, and you can find me active on Twitter.
-I am software developer by heart but love both software dev and data science (but I would confess I prefer building frameworks &amp;raquo; models).
-I am not inclined to any specific language or frameworks, take up whatever language that is best for the project.</description>
+I usually blog on Medium, and now here too. You can also catch me on Twitter where I am quite active.
+I am a software developer by heart but love both software development as well as machine learning (but I do confess I prefer building frameworks over models).</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://chinmayshah99.github.io/public/contact/</link>
+      <link>https://chinmayshah.xyz/public/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chinmayshah99.github.io/public/contact/</guid>
+      <guid>https://chinmayshah.xyz/public/contact/</guid>
       <description>I am based out of Mumbai, India.
 Feel free to reach out on Twitter, LinkedIn or mail.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://chinmayshah99.github.io/public/projects/</link>
+      <link>https://chinmayshah.xyz/public/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chinmayshah99.github.io/public/projects/</guid>
+      <guid>https://chinmayshah.xyz/public/projects/</guid>
       <description>Coming soon!</description>
     </item>
     

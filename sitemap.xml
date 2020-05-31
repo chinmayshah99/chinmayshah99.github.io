@@ -1,33 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chinmayshah99.github.io/public/about/</loc>
+    <loc>https://chinmayshah.xyz/public/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chinmayshah99.github.io/public/categories/</loc>
+    <loc>https://chinmayshah.xyz/public/posts/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chinmayshah99.github.io/public/</loc>
+    <loc>https://chinmayshah.xyz/public/posts/start-blog-hugo/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chinmayshah99.github.io/public/contact/</loc>
+    <loc>https://chinmayshah.xyz/public/tags/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chinmayshah99.github.io/public/projects/</loc>
+    <loc>https://chinmayshah.xyz/public/tags/blogging/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chinmayshah99.github.io/public/series/</loc>
+    <loc>https://chinmayshah.xyz/public/tags/how-to/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chinmayshah99.github.io/public/tags/</loc>
+    <loc>https://chinmayshah.xyz/public/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chinmayshah.xyz/public/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chinmayshah.xyz/public/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chinmayshah.xyz/public/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chinmayshah.xyz/public/series/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
